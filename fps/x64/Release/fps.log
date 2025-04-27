@@ -1,0 +1,1069 @@
+﻿  Arrow.cpp
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Arrow.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Arrow.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Arrow.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\sound.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Arrow.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: “APIENTRY”: 宏重定义
+  (编译源文件“Arrow.cpp”)
+      D:\hal授業\自分用\opengl\fps就职作品\44代码优化\library\include\glad\glad.h(32,9):
+      参见“APIENTRY”的前一个定义
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Shader.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Arrow.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\MonsterManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Arrow.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Monster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Arrow.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\NormalMonster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Arrow.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\TrackingMonster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Arrow.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\BirdMonster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Arrow.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Billboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Arrow.cpp”)
+  
+  ArrowManager.cpp
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\ArrowManager.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\ArrowManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ArrowManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Arrow.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ArrowManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\sound.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ArrowManager.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: “APIENTRY”: 宏重定义
+  (编译源文件“ArrowManager.cpp”)
+      D:\hal授業\自分用\opengl\fps就职作品\44代码优化\library\include\glad\glad.h(32,9):
+      参见“APIENTRY”的前一个定义
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Shader.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ArrowManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\MonsterManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ArrowManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Monster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ArrowManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\NormalMonster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ArrowManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\TrackingMonster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ArrowManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\BirdMonster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ArrowManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Billboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ArrowManager.cpp”)
+  
+  base.cpp
+  Billboard.cpp
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Billboard.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Billboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Billboard.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\sound.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Billboard.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: “APIENTRY”: 宏重定义
+  (编译源文件“Billboard.cpp”)
+      D:\hal授業\自分用\opengl\fps就职作品\44代码优化\library\include\glad\glad.h(32,9):
+      参见“APIENTRY”的前一个定义
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Shader.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Billboard.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Billboard.cpp(98,35): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  BirdMonster.cpp
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\BirdMonster.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\BirdMonster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“BirdMonster.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Monster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“BirdMonster.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\sound.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“BirdMonster.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: “APIENTRY”: 宏重定义
+  (编译源文件“BirdMonster.cpp”)
+      D:\hal授業\自分用\opengl\fps就职作品\44代码优化\library\include\glad\glad.h(32,9):
+      参见“APIENTRY”的前一个定义
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Shader.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“BirdMonster.cpp”)
+  
+  Camera.cpp
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Camera.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\sound.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Camera.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: “APIENTRY”: 宏重定义
+  (编译源文件“Camera.cpp”)
+      D:\hal授業\自分用\opengl\fps就职作品\44代码优化\library\include\glad\glad.h(32,9):
+      参见“APIENTRY”的前一个定义
+  
+  Cube.cpp
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Cube.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Cube.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Cube.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\sound.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Cube.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: “APIENTRY”: 宏重定义
+  (编译源文件“Cube.cpp”)
+      D:\hal授業\自分用\opengl\fps就职作品\44代码优化\library\include\glad\glad.h(32,9):
+      参见“APIENTRY”的前一个定义
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Shader.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Cube.cpp”)
+  
+  ExtraFloor.cpp
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\ExtraFloor.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\ExtraFloor.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ExtraFloor.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\sound.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ExtraFloor.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: “APIENTRY”: 宏重定义
+  (编译源文件“ExtraFloor.cpp”)
+      D:\hal授業\自分用\opengl\fps就职作品\44代码优化\library\include\glad\glad.h(32,9):
+      参见“APIENTRY”的前一个定义
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Cube.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ExtraFloor.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Shader.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ExtraFloor.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\ArrowManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ExtraFloor.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Arrow.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ExtraFloor.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\MonsterManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ExtraFloor.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Monster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ExtraFloor.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\NormalMonster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ExtraFloor.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\TrackingMonster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ExtraFloor.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\BirdMonster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ExtraFloor.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Billboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ExtraFloor.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Player.h(160,30): warning C4305: “初始化”: 从“double”到“const float”截断
+  (编译源文件“ExtraFloor.cpp”)
+  
+  ExtraFloorManager.cpp
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\ExtraFloorManager.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\ExtraFloorManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ExtraFloorManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\sound.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ExtraFloorManager.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: “APIENTRY”: 宏重定义
+  (编译源文件“ExtraFloorManager.cpp”)
+      D:\hal授業\自分用\opengl\fps就职作品\44代码优化\library\include\glad\glad.h(32,9):
+      参见“APIENTRY”的前一个定义
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\ExtraFloor.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ExtraFloorManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Cube.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ExtraFloorManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Shader.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ExtraFloorManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\ArrowManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ExtraFloorManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Arrow.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ExtraFloorManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\MonsterManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ExtraFloorManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Monster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ExtraFloorManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\NormalMonster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ExtraFloorManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\TrackingMonster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ExtraFloorManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\BirdMonster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ExtraFloorManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Billboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ExtraFloorManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Player.h(160,30): warning C4305: “初始化”: 从“double”到“const float”截断
+  (编译源文件“ExtraFloorManager.cpp”)
+  
+  GameClearScene.cpp
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\GameClearScene.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Scene.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GameClearScene.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\sound.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GameClearScene.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: “APIENTRY”: 宏重定义
+  (编译源文件“GameClearScene.cpp”)
+      D:\hal授業\自分用\opengl\fps就职作品\44代码优化\library\include\glad\glad.h(32,9):
+      参见“APIENTRY”的前一个定义
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\TitleUI.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GameClearScene.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Shader.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GameClearScene.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\UI.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GameClearScene.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\GameClearUI.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GameClearScene.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\SceneManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GameClearScene.cpp”)
+  
+  GameClearUI.cpp
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\GameClearUI.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\GameClearUI.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GameClearUI.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\sound.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GameClearUI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: “APIENTRY”: 宏重定义
+  (编译源文件“GameClearUI.cpp”)
+      D:\hal授業\自分用\opengl\fps就职作品\44代码优化\library\include\glad\glad.h(32,9):
+      参见“APIENTRY”的前一个定义
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Shader.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GameClearUI.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\UI.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GameClearUI.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\GameClearUI.cpp(135,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\GameClearUI.cpp(200,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  GameScene.cpp
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\GameScene.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Scene.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GameScene.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\sound.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GameScene.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: “APIENTRY”: 宏重定义
+  (编译源文件“GameScene.cpp”)
+      D:\hal授業\自分用\opengl\fps就职作品\44代码优化\library\include\glad\glad.h(32,9):
+      参见“APIENTRY”的前一个定义
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Shader.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GameScene.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\ArrowManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GameScene.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Arrow.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GameScene.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\MonsterManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GameScene.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Monster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GameScene.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\NormalMonster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GameScene.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\TrackingMonster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GameScene.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\BirdMonster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GameScene.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Billboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GameScene.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Player.h(160,30): warning C4305: “初始化”: 从“double”到“const float”截断
+  (编译源文件“GameScene.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Skybox.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GameScene.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\ExtraFloorManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GameScene.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\ExtraFloor.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GameScene.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Cube.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GameScene.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\WallManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GameScene.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Wall.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GameScene.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\StartCubeManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GameScene.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Star.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GameScene.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\SignpostManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GameScene.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Signpost.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GameScene.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\UIManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GameScene.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\UI.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GameScene.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Timer.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GameScene.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\SceneManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GameScene.cpp”)
+  
+  main.cpp
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\main.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\sound.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Shader.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\ArrowManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Arrow.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\MonsterManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Monster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\NormalMonster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\TrackingMonster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\BirdMonster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Billboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Player.h(160,30): warning C4305: “初始化”: 从“double”到“const float”截断
+  (编译源文件“main.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Skybox.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\ExtraFloorManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\ExtraFloor.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Cube.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\WallManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Wall.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\StartCubeManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Star.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\SignpostManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Signpost.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\UIManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\UI.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Timer.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\SceneManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Scene.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\TitleUI.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\GameClearUI.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\main.cpp(12,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\main.cpp(50,24): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  Model.cpp
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Model.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\sound.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Model.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: “APIENTRY”: 宏重定义
+  (编译源文件“Model.cpp”)
+      D:\hal授業\自分用\opengl\fps就职作品\44代码优化\library\include\glad\glad.h(32,9):
+      参见“APIENTRY”的前一个定义
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Model.cpp(27,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Model.cpp(33,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Model.cpp(42,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Model.cpp(65,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Model.cpp(68,21): warning C4018: “<”: 有符号/无符号不匹配
+  MonsterManager.cpp
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\MonsterManager.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\MonsterManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“MonsterManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\sound.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“MonsterManager.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: “APIENTRY”: 宏重定义
+  (编译源文件“MonsterManager.cpp”)
+      D:\hal授業\自分用\opengl\fps就职作品\44代码优化\library\include\glad\glad.h(32,9):
+      参见“APIENTRY”的前一个定义
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Shader.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“MonsterManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Monster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“MonsterManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\NormalMonster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“MonsterManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\TrackingMonster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“MonsterManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\BirdMonster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“MonsterManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Billboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“MonsterManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\MonsterManager.cpp(171,30): warning C4244: “=”: 从“int”转换到“T”，可能丢失数据
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\MonsterManager.cpp(171,30): warning C4244:         with
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\MonsterManager.cpp(171,30): warning C4244:         [
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\MonsterManager.cpp(171,30): warning C4244:             T=float
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\MonsterManager.cpp(171,30): warning C4244:         ]
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\MonsterManager.cpp(172,30): warning C4244: “=”: 从“int”转换到“T”，可能丢失数据
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\MonsterManager.cpp(172,30): warning C4244:         with
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\MonsterManager.cpp(172,30): warning C4244:         [
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\MonsterManager.cpp(172,30): warning C4244:             T=float
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\MonsterManager.cpp(172,30): warning C4244:         ]
+  NormalMonster.cpp
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\NormalMonster.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\NormalMonster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“NormalMonster.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Monster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“NormalMonster.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\sound.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“NormalMonster.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: “APIENTRY”: 宏重定义
+  (编译源文件“NormalMonster.cpp”)
+      D:\hal授業\自分用\opengl\fps就职作品\44代码优化\library\include\glad\glad.h(32,9):
+      参见“APIENTRY”的前一个定义
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Shader.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“NormalMonster.cpp”)
+  
+  Player.cpp
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Player.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\sound.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Player.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: “APIENTRY”: 宏重定义
+  (编译源文件“Player.cpp”)
+      D:\hal授業\自分用\opengl\fps就职作品\44代码优化\library\include\glad\glad.h(32,9):
+      参见“APIENTRY”的前一个定义
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Shader.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Player.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\ArrowManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Player.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Arrow.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Player.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\MonsterManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Player.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Monster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Player.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\NormalMonster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Player.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\TrackingMonster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Player.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\BirdMonster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Player.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Billboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Player.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\player.h(160,30): warning C4305: “初始化”: 从“double”到“const float”截断
+  (编译源文件“Player.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Player.cpp(195,38): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Player.cpp(196,40): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+  SceneManager.cpp
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\SceneManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“SceneManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\sound.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“SceneManager.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: “APIENTRY”: 宏重定义
+  (编译源文件“SceneManager.cpp”)
+      D:\hal授業\自分用\opengl\fps就职作品\44代码优化\library\include\glad\glad.h(32,9):
+      参见“APIENTRY”的前一个定义
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Scene.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“SceneManager.cpp”)
+  
+  Shader.cpp
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Shader.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\shader.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Shader.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\sound.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Shader.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: “APIENTRY”: 宏重定义
+  (编译源文件“Shader.cpp”)
+      D:\hal授業\自分用\opengl\fps就职作品\44代码优化\library\include\glad\glad.h(32,9):
+      参见“APIENTRY”的前一个定义
+  
+  Signpost.cpp
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Signpost.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Signpost.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Signpost.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\sound.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Signpost.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: “APIENTRY”: 宏重定义
+  (编译源文件“Signpost.cpp”)
+      D:\hal授業\自分用\opengl\fps就职作品\44代码优化\library\include\glad\glad.h(32,9):
+      参见“APIENTRY”的前一个定义
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Shader.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Signpost.cpp”)
+  
+  正在编译...
+  SignpostManager.cpp
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\SignpostManager.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\SignpostManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“SignpostManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\sound.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“SignpostManager.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: “APIENTRY”: 宏重定义
+  (编译源文件“SignpostManager.cpp”)
+      D:\hal授業\自分用\opengl\fps就职作品\44代码优化\library\include\glad\glad.h(32,9):
+      参见“APIENTRY”的前一个定义
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Signpost.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“SignpostManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Shader.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“SignpostManager.cpp”)
+  
+  Skybox.cpp
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Skybox.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Skybox.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Skybox.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\sound.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Skybox.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: “APIENTRY”: 宏重定义
+  (编译源文件“Skybox.cpp”)
+      D:\hal授業\自分用\opengl\fps就职作品\44代码优化\library\include\glad\glad.h(32,9):
+      参见“APIENTRY”的前一个定义
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Shader.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Skybox.cpp”)
+  
+  Sound.cpp
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Sound.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\sound.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Sound.cpp”)
+  
+  Star.cpp
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Star.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Star.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Star.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\sound.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Star.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: “APIENTRY”: 宏重定义
+  (编译源文件“Star.cpp”)
+      D:\hal授業\自分用\opengl\fps就职作品\44代码优化\library\include\glad\glad.h(32,9):
+      参见“APIENTRY”的前一个定义
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Shader.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Star.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\ArrowManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Star.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Arrow.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Star.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\MonsterManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Star.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Monster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Star.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\NormalMonster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Star.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\TrackingMonster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Star.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\BirdMonster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Star.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Billboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Star.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Player.h(160,30): warning C4305: “初始化”: 从“double”到“const float”截断
+  (编译源文件“Star.cpp”)
+  
+  StartCube.cpp
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\StartCube.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\sound.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“StartCube.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: “APIENTRY”: 宏重定义
+  (编译源文件“StartCube.cpp”)
+      D:\hal授業\自分用\opengl\fps就职作品\44代码优化\library\include\glad\glad.h(32,9):
+      参见“APIENTRY”的前一个定义
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Cube.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“StartCube.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Shader.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“StartCube.cpp”)
+  
+  StartCubeManager.cpp
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\StartCubeManager.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\StartCubeManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“StartCubeManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\sound.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“StartCubeManager.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: “APIENTRY”: 宏重定义
+  (编译源文件“StartCubeManager.cpp”)
+      D:\hal授業\自分用\opengl\fps就职作品\44代码优化\library\include\glad\glad.h(32,9):
+      参见“APIENTRY”的前一个定义
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Cube.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“StartCubeManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Shader.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“StartCubeManager.cpp”)
+  
+  Texture.cpp
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Texture.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\sound.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Texture.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: “APIENTRY”: 宏重定义
+  (编译源文件“Texture.cpp”)
+      D:\hal授業\自分用\opengl\fps就职作品\44代码优化\library\include\glad\glad.h(32,9):
+      参见“APIENTRY”的前一个定义
+  
+  TitleScene.cpp
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\TitleScene.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Scene.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“TitleScene.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\sound.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“TitleScene.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: “APIENTRY”: 宏重定义
+  (编译源文件“TitleScene.cpp”)
+      D:\hal授業\自分用\opengl\fps就职作品\44代码优化\library\include\glad\glad.h(32,9):
+      参见“APIENTRY”的前一个定义
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\TitleUI.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“TitleScene.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Shader.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“TitleScene.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\UI.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“TitleScene.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\SceneManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“TitleScene.cpp”)
+  
+  TitleUI.cpp
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\TitleUI.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“TitleUI.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\sound.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“TitleUI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: “APIENTRY”: 宏重定义
+  (编译源文件“TitleUI.cpp”)
+      D:\hal授業\自分用\opengl\fps就职作品\44代码优化\library\include\glad\glad.h(32,9):
+      参见“APIENTRY”的前一个定义
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Shader.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“TitleUI.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\UI.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“TitleUI.cpp”)
+  
+  TrackingMonster.cpp
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\TrackingMonster.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\TrackingMonster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“TrackingMonster.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Monster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“TrackingMonster.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\sound.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“TrackingMonster.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: “APIENTRY”: 宏重定义
+  (编译源文件“TrackingMonster.cpp”)
+      D:\hal授業\自分用\opengl\fps就职作品\44代码优化\library\include\glad\glad.h(32,9):
+      参见“APIENTRY”的前一个定义
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Shader.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“TrackingMonster.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\TrackingMonster.cpp(71,18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  UI.cpp
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\UI.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\UI.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“UI.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\sound.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“UI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: “APIENTRY”: 宏重定义
+  (编译源文件“UI.cpp”)
+      D:\hal授業\自分用\opengl\fps就职作品\44代码优化\library\include\glad\glad.h(32,9):
+      参见“APIENTRY”的前一个定义
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Shader.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“UI.cpp”)
+  
+  UIManager.cpp
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\UIManager.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\UIManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“UIManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\sound.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“UIManager.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: “APIENTRY”: 宏重定义
+  (编译源文件“UIManager.cpp”)
+      D:\hal授業\自分用\opengl\fps就职作品\44代码优化\library\include\glad\glad.h(32,9):
+      参见“APIENTRY”的前一个定义
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Shader.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“UIManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\UI.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“UIManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\ArrowManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“UIManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Arrow.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“UIManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\MonsterManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“UIManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Monster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“UIManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\NormalMonster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“UIManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\TrackingMonster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“UIManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\BirdMonster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“UIManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Billboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“UIManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Player.h(160,30): warning C4305: “初始化”: 从“double”到“const float”截断
+  (编译源文件“UIManager.cpp”)
+  
+  Wall.cpp
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Wall.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\wall.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Wall.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\sound.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Wall.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: “APIENTRY”: 宏重定义
+  (编译源文件“Wall.cpp”)
+      D:\hal授業\自分用\opengl\fps就职作品\44代码优化\library\include\glad\glad.h(32,9):
+      参见“APIENTRY”的前一个定义
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Cube.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Wall.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Shader.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Wall.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\ArrowManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Wall.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Arrow.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Wall.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\MonsterManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Wall.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Monster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Wall.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\NormalMonster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Wall.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\TrackingMonster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Wall.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\BirdMonster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Wall.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Billboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Wall.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Player.h(160,30): warning C4305: “初始化”: 从“double”到“const float”截断
+  (编译源文件“Wall.cpp”)
+  
+  WallManager.cpp
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\WallManager.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\wallManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“WallManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\sound.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“WallManager.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: “APIENTRY”: 宏重定义
+  (编译源文件“WallManager.cpp”)
+      D:\hal授業\自分用\opengl\fps就职作品\44代码优化\library\include\glad\glad.h(32,9):
+      参见“APIENTRY”的前一个定义
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Wall.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“WallManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Cube.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“WallManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Shader.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“WallManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\ArrowManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“WallManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Arrow.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“WallManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\MonsterManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“WallManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Monster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“WallManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\NormalMonster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“WallManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\TrackingMonster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“WallManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\BirdMonster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“WallManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Billboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“WallManager.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Player.h(160,30): warning C4305: “初始化”: 从“double”到“const float”截断
+  (编译源文件“WallManager.cpp”)
+  
+  World.cpp
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\World.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\sound.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“World.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: “APIENTRY”: 宏重定义
+  (编译源文件“World.cpp”)
+      D:\hal授業\自分用\opengl\fps就职作品\44代码优化\library\include\glad\glad.h(32,9):
+      参见“APIENTRY”的前一个定义
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Shader.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“World.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\ArrowManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“World.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Arrow.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“World.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\MonsterManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“World.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Monster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“World.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\NormalMonster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“World.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\TrackingMonster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“World.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\BirdMonster.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“World.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Billboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“World.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Player.h(160,30): warning C4305: “初始化”: 从“double”到“const float”截断
+  (编译源文件“World.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Skybox.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“World.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\ExtraFloorManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“World.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\ExtraFloor.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“World.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Cube.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“World.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\WallManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“World.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Wall.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“World.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\StartCubeManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“World.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Star.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“World.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\SignpostManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“World.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Signpost.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“World.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\UIManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“World.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\UI.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“World.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\Timer.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“World.cpp”)
+  
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\World.cpp(271,65): warning C4244: “参数”: 从“T”转换到“GLsizei”，可能丢失数据
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\World.cpp(271,65): warning C4244:         with
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\World.cpp(271,65): warning C4244:         [
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\World.cpp(271,65): warning C4244:             T=float
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\World.cpp(271,65): warning C4244:         ]
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\World.cpp(271,51): warning C4244: “参数”: 从“T”转换到“GLsizei”，可能丢失数据
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\World.cpp(271,51): warning C4244:         with
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\World.cpp(271,51): warning C4244:         [
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\World.cpp(271,51): warning C4244:             T=float
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\World.cpp(271,51): warning C4244:         ]
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\World.cpp(280,86): warning C4244: “参数”: 从“T”转换到“GLsizei”，可能丢失数据
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\World.cpp(280,86): warning C4244:         with
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\World.cpp(280,86): warning C4244:         [
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\World.cpp(280,86): warning C4244:             T=float
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\World.cpp(280,86): warning C4244:         ]
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\World.cpp(280,72): warning C4244: “参数”: 从“T”转换到“GLsizei”，可能丢失数据
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\World.cpp(280,72): warning C4244:         with
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\World.cpp(280,72): warning C4244:         [
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\World.cpp(280,72): warning C4244:             T=float
+D:\hal授業\自分用\opengl\fps就职作品\44代码优化\World.cpp(280,72): warning C4244:         ]
+  glad.c
+  正在生成代码
+  1620 of 1642 functions (98.7%) were compiled, the rest were copied from previous compilation.
+    75 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  fps.vcxproj -> D:\hal授業\自分用\opengl\fps就职作品\44代码优化\x64\Release\fps.exe

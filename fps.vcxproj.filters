@@ -1,0 +1,346 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Scenes">
+      <UniqueIdentifier>{99354200-4953-4074-ba08-89def13f5d2c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gameobject">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Gameobject\Wall">
+      <UniqueIdentifier>{44ca78a9-cff2-4e1f-bfbd-fae38aa84a3f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gameobject\Skybox">
+      <UniqueIdentifier>{e1ebd221-af57-4b6e-b5d9-ca7a119d4df6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Monsters">
+      <UniqueIdentifier>{08b2412f-ad61-4bfb-bb36-c791529f9dbc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gameobject\Billboard">
+      <UniqueIdentifier>{616558a5-26ec-47d7-8e5f-7804461c11fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gameobject\Items">
+      <UniqueIdentifier>{f5c79ad5-9cf7-42e0-8f6f-9344fc90f137}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameUI">
+      <UniqueIdentifier>{2f61e939-259f-4af4-8add-d208cfaf505c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scenes\SceneUI">
+      <UniqueIdentifier>{f3fe3d7f-a6e0-4487-9fa6-7fb0af417f66}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Base">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Player">
+      <UniqueIdentifier>{5e10e933-3334-44f7-ab75-d1b6a9875eb0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shader">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="UI.h">
+      <Filter>GameUI</Filter>
+    </ClInclude>
+    <ClInclude Include="UIManager.h">
+      <Filter>GameUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Heart.h">
+      <Filter>GameUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Action.h">
+      <Filter>GameUI</Filter>
+    </ClInclude>
+    <ClInclude Include="TimerFont.h">
+      <Filter>GameUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Cube.h">
+      <Filter>Gameobject\Wall</Filter>
+    </ClInclude>
+    <ClInclude Include="Wall.h">
+      <Filter>Gameobject\Wall</Filter>
+    </ClInclude>
+    <ClInclude Include="WallManager.h">
+      <Filter>Gameobject\Wall</Filter>
+    </ClInclude>
+    <ClInclude Include="ExtraFloor.h">
+      <Filter>Gameobject\Wall</Filter>
+    </ClInclude>
+    <ClInclude Include="ExtraFloorManager.h">
+      <Filter>Gameobject\Wall</Filter>
+    </ClInclude>
+    <ClInclude Include="Arrow.h">
+      <Filter>Player</Filter>
+    </ClInclude>
+    <ClInclude Include="ArrowManager.h">
+      <Filter>Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="TitleScene.h">
+      <Filter>Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="GameScene.h">
+      <Filter>Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="GameClearScene.h">
+      <Filter>Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneManager.h">
+      <Filter>Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="CharacterTexture.h">
+      <Filter>GameUI</Filter>
+    </ClInclude>
+    <ClInclude Include="MonsterManager.h">
+      <Filter>Monsters</Filter>
+    </ClInclude>
+    <ClInclude Include="TrackingMonster.h">
+      <Filter>Monsters</Filter>
+    </ClInclude>
+    <ClInclude Include="NormalMonster.h">
+      <Filter>Monsters</Filter>
+    </ClInclude>
+    <ClInclude Include="BirdMonster.h">
+      <Filter>Monsters</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster.h">
+      <Filter>Monsters</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="Shader.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="Model.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="base.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="main.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="StartCube.h">
+      <Filter>Gameobject\Wall</Filter>
+    </ClInclude>
+    <ClInclude Include="StartCubeManager.h">
+      <Filter>Gameobject\Wall</Filter>
+    </ClInclude>
+    <ClInclude Include="Skybox.h">
+      <Filter>Gameobject\Skybox</Filter>
+    </ClInclude>
+    <ClInclude Include="Billboard.h">
+      <Filter>Gameobject\Billboard</Filter>
+    </ClInclude>
+    <ClInclude Include="Signpost.h">
+      <Filter>Gameobject\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="SignpostManager.h">
+      <Filter>Gameobject\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Star.h">
+      <Filter>Gameobject\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="GameClearUI.h">
+      <Filter>Scenes\SceneUI</Filter>
+    </ClInclude>
+    <ClInclude Include="TitleUI.h">
+      <Filter>Scenes\SceneUI</Filter>
+    </ClInclude>
+    <ClInclude Include="World.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="glad.c">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="ExtraFloor.cpp">
+      <Filter>Gameobject\Wall</Filter>
+    </ClCompile>
+    <ClCompile Include="Cube.cpp">
+      <Filter>Gameobject\Wall</Filter>
+    </ClCompile>
+    <ClCompile Include="ExtraFloorManager.cpp">
+      <Filter>Gameobject\Wall</Filter>
+    </ClCompile>
+    <ClCompile Include="Wall.cpp">
+      <Filter>Gameobject\Wall</Filter>
+    </ClCompile>
+    <ClCompile Include="WallManager.cpp">
+      <Filter>Gameobject\Wall</Filter>
+    </ClCompile>
+    <ClCompile Include="BirdMonster.cpp">
+      <Filter>Monsters</Filter>
+    </ClCompile>
+    <ClCompile Include="MonsterManager.cpp">
+      <Filter>Monsters</Filter>
+    </ClCompile>
+    <ClCompile Include="NormalMonster.cpp">
+      <Filter>Monsters</Filter>
+    </ClCompile>
+    <ClCompile Include="TrackingMonster.cpp">
+      <Filter>Monsters</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="Arrow.cpp">
+      <Filter>Player</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrowManager.cpp">
+      <Filter>Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Model.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="Shader.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Player</Filter>
+    </ClCompile>
+    <ClCompile Include="GameClearScene.cpp">
+      <Filter>Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="UI.cpp">
+      <Filter>GameUI</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneManager.cpp">
+      <Filter>Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="GameScene.cpp">
+      <Filter>Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="base.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="TitleScene.cpp">
+      <Filter>Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="UIManager.cpp">
+      <Filter>GameUI</Filter>
+    </ClCompile>
+    <ClCompile Include="StartCube.cpp">
+      <Filter>Gameobject\Wall</Filter>
+    </ClCompile>
+    <ClCompile Include="StartCubeManager.cpp">
+      <Filter>Gameobject\Wall</Filter>
+    </ClCompile>
+    <ClCompile Include="Skybox.cpp">
+      <Filter>Gameobject\Skybox</Filter>
+    </ClCompile>
+    <ClCompile Include="Billboard.cpp">
+      <Filter>Gameobject\Billboard</Filter>
+    </ClCompile>
+    <ClCompile Include="Signpost.cpp">
+      <Filter>Gameobject\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="SignpostManager.cpp">
+      <Filter>Gameobject\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="Star.cpp">
+      <Filter>Gameobject\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="GameClearUI.cpp">
+      <Filter>Scenes\SceneUI</Filter>
+    </ClCompile>
+    <ClCompile Include="TitleUI.cpp">
+      <Filter>Scenes\SceneUI</Filter>
+    </ClCompile>
+    <ClCompile Include="World.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\shader\arrow.frag">
+      <Filter>shader</Filter>
+    </None>
+    <None Include="res\shader\arrow.vert">
+      <Filter>shader</Filter>
+    </None>
+    <None Include="res\shader\playermarker.frag">
+      <Filter>shader</Filter>
+    </None>
+    <None Include="res\shader\playermarker.vert">
+      <Filter>shader</Filter>
+    </None>
+    <None Include="res\shader\wall.frag">
+      <Filter>shader</Filter>
+    </None>
+    <None Include="res\shader\wall.vert">
+      <Filter>shader</Filter>
+    </None>
+    <None Include="res\shader\bow.vert">
+      <Filter>shader</Filter>
+    </None>
+    <None Include="res\shader\bow.frag">
+      <Filter>shader</Filter>
+    </None>
+    <None Include="res\shader\star.frag">
+      <Filter>shader</Filter>
+    </None>
+    <None Include="res\shader\star.vert">
+      <Filter>shader</Filter>
+    </None>
+    <None Include="res\shader\UI.frag">
+      <Filter>shader</Filter>
+    </None>
+    <None Include="res\shader\UI.vert">
+      <Filter>shader</Filter>
+    </None>
+    <None Include="res\shader\screen.frag">
+      <Filter>shader</Filter>
+    </None>
+    <None Include="res\shader\screen.vert">
+      <Filter>shader</Filter>
+    </None>
+    <None Include="res\shader\billboard.frag">
+      <Filter>shader</Filter>
+    </None>
+    <None Include="res\shader\billboard.vert">
+      <Filter>shader</Filter>
+    </None>
+    <None Include="res\shader\skybox.frag">
+      <Filter>shader</Filter>
+    </None>
+    <None Include="res\shader\skybox.vert">
+      <Filter>shader</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="fps.rc">
+      <Filter>shader</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
